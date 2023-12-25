@@ -3,5 +3,5 @@ I've successfully developed a Django Project featuring a cutting-edge social med
 
 # References
 Llama 2: https://python.langchain.com/docs/integrations/llms/llamacpp<br>
-https://www.youtube.com/watch?v=SvjWDX2NqiM<br>
-https://www.youtube.com/watch?v=mn5wmldU70M<br>
+https://www.youtube.com/watch?v=SvjWDX2NqiM **Download model.bin file from hugging face** <br> 
+https://www.youtube.com/watch?v=mn5wmldU70M  **Create env.txt file outside your application folder and place your key there**<br> 
